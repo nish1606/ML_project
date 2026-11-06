@@ -1,4 +1,4 @@
-# ML Project — Group 4: FOIL-style Relational Rule Learning and EBL
+# ML Project — FOIL-style Relational Rule Learning and EBL
 
 This project demonstrates **Relational Rule Learning** using a simplified **FOIL-style** algorithm and **Explanation-Based Learning (EBL)** on a synthetic family-relationship dataset. The target relation is `ancestor(X, Y)` learned/explained from `parent(X, Y)` background facts.
 
